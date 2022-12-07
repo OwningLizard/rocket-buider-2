@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAD//wAAAAAAAF/1Dw8AAAAAX1X/9Q8AAAD/VfVVDwAAAPBf9VUPAAAAAP//VQ8AAADwVVVVDwAAAABfVVUPAAAAAP///w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Arrow"
+    },
+    "image2": {
+        "data": "hwQKAAgAAABAREQEVFVVRVRVVUVUVVVFVFFVRVQRVUVUVVVFQEREBAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Coin"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
